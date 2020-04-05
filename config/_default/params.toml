@@ -42,7 +42,7 @@ pubPaginate = 20
 
 # whoami
 myname = "haru"
-email = "info@engblog.net"
+email = "engblog0327@gmail.com"
 whoami = "Mechanical Engineer"
 bioImageUrl = ""
 useGravatar = false
