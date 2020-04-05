@@ -48,7 +48,7 @@ bioImageUrl = ""
 useGravatar = false
 location = "Japan"
 organization = ""
-link = "https://engblog.net/"
+link = "https://engblog.net"
 
 # sidebar
 enableBio = true
@@ -142,7 +142,7 @@ commento = false
   dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
 
 [socialOptions]
-  email = "mailto:your@email.com"
+  email = "mailto:engblog0327@gmail.com"
   phone = ""
   facebook = ""
   twitter = "https://twitter.com/haru_engblog"
