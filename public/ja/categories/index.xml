@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Categories on TOP PAGE</title>
+    <link>http://example.org/ja/categories/</link>
+    <description>Recent content in Categories on TOP PAGE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <managingEditor>info@engblog.net (haru)</managingEditor>
+    <webMaster>info@engblog.net (haru)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 29 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://example.org/ja/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Programming</title>
+        <link>http://example.org/ja/categories/programming/</link>
+        <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+        <author>info@engblog.net (haru)</author>
+        
+        <guid>http://example.org/ja/categories/programming/</guid>
+        <description></description>
+        
+        <dc:creator>haru</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>資格</title>
+        <link>http://example.org/ja/categories/%E8%B3%87%E6%A0%BC/</link>
+        <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+        <author>info@engblog.net (haru)</author>
+        
+        <guid>http://example.org/ja/categories/%E8%B3%87%E6%A0%BC/</guid>
+        <description></description>
+        
+        <dc:creator>haru</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Apple</title>
+        <link>http://example.org/ja/categories/apple/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <author>info@engblog.net (haru)</author>
+        
+        <guid>http://example.org/ja/categories/apple/</guid>
+        <description></description>
+        
+        <dc:creator>haru</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

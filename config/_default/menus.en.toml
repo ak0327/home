@@ -21,7 +21,7 @@
   name = "Gallery"
   url = "gallery"
   weight = 4
-    
+
 [[main]]
   parent = "gallery"
   name = "Cartoon"
@@ -36,6 +36,12 @@
   identifier = "posts"
   name = "Posts"
   url = "posts"
+  weight = 5
+
+[[main]]
+  identifier = "posts2"
+  name = "Posts2"
+  url = "posts2"
   weight = 5
 
 [[main]]

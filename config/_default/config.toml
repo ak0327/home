@@ -1,9 +1,9 @@
-baseURL = "http://example.org"
-title = "Hugo Zzo Theme"
+baseURL = "https://engblog.net/"
+title = "機械系エンジニアの雑記ログ"
 theme = "zzo"
 
-defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
+defaultContentLanguage = "ja"
+defaultContentLanguageInSubdir = false
 hasCJKLanguage = true
 
 summaryLength = 70
@@ -16,7 +16,7 @@ paginate = 13
 rssLimit = 100
 
 enableGitInfo = false
-googleAnalytics = ""
+googleAnalytics = "UA-140855264-1"
 
 [markup]
   [markup.goldmark]

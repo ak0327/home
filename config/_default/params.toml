@@ -1,13 +1,14 @@
-logoText = "Zzo"
+
+logoText = "機械系エンジニアの雑記ログ"
 logoType = "short" # long, short
-description = "The Zzo theme for Hugo example site."
-custom_css = []
+description = "my blog."
+custom_css = ["css/font.css"]
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
 meta_image = ""
 themecolor = ""
 
-themeOptions = ["dark", "light", "hacker", "solarized", "kimbie"]
+themeOptions = ["light", "dark"] #"dark", "light", "hacker", "solarized", "kimbie"
 notAllowedTypesInHome = ["contact", "talks", "about", "showcase", "publication", "presentation", "resume"]
 notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "presentation", "resume"]
 notAllowedTypesInArchive = ["about", "talks", "showcase", "publication", "presentation", "resume"]
@@ -40,14 +41,14 @@ talksGroupByDate = "2006"
 pubPaginate = 20
 
 # whoami
-myname = "zzossig"
-email = "zzossig@gmail.com"
-whoami = "Web Developer"
+myname = "haru"
+email = "info@engblog.net"
+whoami = "Mechanical Engineer"
 bioImageUrl = ""
 useGravatar = false
-location = "Seoul, Korea"
-organization = "Hugo"
-link = "https://zzossig.io/ko"
+location = "Japan"
+organization = ""
+link = "https://engblog.net/"
 
 # sidebar
 enableBio = true
@@ -123,7 +124,7 @@ commento = false
   appKey = '你的appKey'
   notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
   verify = false # Verification code
-  avatar = 'mm' 
+  avatar = 'mm'
   placeholder = '说点什么吧...'
   visitor = false
 
@@ -143,9 +144,9 @@ commento = false
 [socialOptions]
   email = "mailto:your@email.com"
   phone = ""
-  facebook = "http://example.org/"
-  twitter = "http://example.org/"
-  github = "https://github.com/zzossig/hugo-theme-zzo"
+  facebook = ""
+  twitter = "https://twitter.com/haru_engblog"
+  github = "https://github.com/ak0327"
   stack-overflow = ""
   instagram = ""
   google-plus = ""
@@ -174,21 +175,27 @@ commento = false
 
 [donationOptions]
   enable = false
-  alipay = "" 
+  alipay = ""
   wechat = ""
   paypal = ""
   patreon = ""
 
 # possible share name: ["facebook","twitter", "reddit", "linkedin", "tumblr", "weibo", "douban", "line"]
 [[share]]
-  name = "facebook"
+  name = "twitter"
   username = ""
 [[share]]
-  name = "twitter"
+  name = "line"
+[[share]]
+  name = "linkedin"
+[[share]]
+  name = "facebook"
+[[share]]
+  name = ""
 
 [[footerLinks]]
-  name = ""
-  link = ""
+  name = "Privacy Policy"
+  link = "/privacypolicy"
 [[footerLinks]]
   name = ""
   link = ""

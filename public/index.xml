@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>TOP PAGE</title>
+    <link>https://engblog.net/</link>
+    <description>Recent content on TOP PAGE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <managingEditor>info@engblog.net (haru)</managingEditor>
+    <webMaster>info@engblog.net (haru)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 29 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://engblog.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+
+      
+      <item>
+        <title>Hugo＆●●で高速なウェブサイトを作成してみた</title>
+        <link>https://engblog.net/programming/200329_hugo/</link>
+        <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+        <author>info@engblog.net (haru)</author>
+        <atom:modified>Sun, 29 Mar 2020 00:00:00 +0000</atom:modified>
+        <guid>https://engblog.net/programming/200329_hugo/</guid>
+        <description>&lt;p&gt;Hugoでウェブサイトを作成した（このブログ）。&lt;br /&gt;
+それなりに苦労したので忘備のために解説を残す。&lt;/p&gt;</description>
+        
+        <dc:creator>haru</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Hugo</category>
+            
+          
+        
+        
+          
+            
+              <category>Programming</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>AtCoder 茶色になったので振り返り＆今後の目標</title>
+        <link>https://engblog.net/programming/200328_atcoder_brown/</link>
+        <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+        <author>info@engblog.net (haru)</author>
+        <atom:modified>Sat, 28 Mar 2020 00:00:00 +0000</atom:modified>
+        <guid>https://engblog.net/programming/200328_atcoder_brown/</guid>
+        <description>&lt;p&gt;2019/12よりAtcoderを始め、2020/3に茶色になった。&lt;br /&gt;
+決して早い入茶ではないが、 それなりに苦労した。&lt;br /&gt;
+茶色を目指している人の参考になればと思い、入茶までの振り返りを綴る。&lt;/p&gt;</description>
+        
+        <dc:creator>haru</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>AtCoder</category>
+            
+          
+            
+              <category>競技プログラミング</category>
+            
+          
+            
+              <category>Python</category>
+            
+          
+        
+        
+          
+            
+              <category>Programming</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>JDLA G検定に合格したので勉強法＆振り返り</title>
+        <link>https://engblog.net/qualification/200328_jdla_g/</link>
+        <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+        <author>info@engblog.net (haru)</author>
+        <atom:modified>Sat, 28 Mar 2020 00:00:00 +0000</atom:modified>
+        <guid>https://engblog.net/qualification/200328_jdla_g/</guid>
+        <description>&lt;p&gt;JDLA G検定2020#1に合格した。&lt;br /&gt;
+勉強法および受験した感想、今後の展望を述べる。&lt;/p&gt;</description>
+        
+        <dc:creator>haru</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>G検定</category>
+            
+          
+            
+              <category>AI</category>
+            
+          
+        
+        
+          
+            
+              <category>資格</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Amazonアソシエイトへ合格！審査を通過する秘訣を公開【2019】</title>
+        <link>https://engblog.net/blog/amazon/</link>
+        <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
+        <author>info@engblog.net (haru)</author>
+        <atom:modified>Sat, 22 Jun 2019 00:00:00 +0000</atom:modified>
+        <guid>https://engblog.net/blog/amazon/</guid>
+        <description>&lt;p&gt;2019/6 ブログを開設して2週間が経過した。&lt;br /&gt;
+開設間も無く、Amazonアソシエイトの申請を行ない、&lt;br /&gt;
+3度目の申請で合格を獲得した。&lt;br /&gt;
+2度不合格を得た理由と、合格のための対策を紹介する。&lt;/p&gt;</description>
+        
+        <dc:creator>haru</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Amazonアソシエイト</category>
+            
+          
+        
+        
+          
+            
+              <category>Blog</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Withings SteelHR 1年レビュー【2019】</title>
+        <link>https://engblog.net/blog/steelhr/</link>
+        <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
+        <author>info@engblog.net (haru)</author>
+        <atom:modified>Sat, 22 Jun 2019 00:00:00 +0000</atom:modified>
+        <guid>https://engblog.net/blog/steelhr/</guid>
+        <description>&lt;p&gt;Withings製 SteelHRを使用し1年が経過した。&lt;br /&gt;
+充電時以外は腕につけっぱなし&lt;br /&gt;
+レビューをしたい。&lt;/p&gt;</description>
+        
+        <dc:creator>haru</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>SteelHR</category>
+            
+          
+        
+        
+          
+            
+              <category>Blog</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>総アクセス数34だけどGoogleAdSenseに合格できたコツ【2019】</title>
+        <link>https://engblog.net/blog/googleadsense/</link>
+        <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+        <author>info@engblog.net (haru)</author>
+        <atom:modified>Mon, 10 Jun 2019 00:00:00 +0000</atom:modified>
+        <guid>https://engblog.net/blog/googleadsense/</guid>
+        <description>&lt;p&gt;GoogleAdSenseに合格したコツを紹介する&lt;/p&gt;</description>
+        
+        <dc:creator>haru</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>GoogleAdSense</category>
+            
+          
+        
+        
+          
+            
+              <category>Blog</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Apple Watch S5をレビュー</title>
+        <link>https://engblog.net/apple/applewatch_s5/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <author>info@engblog.net (haru)</author>
+        <atom:modified>Mon, 11 Mar 2019 00:00:00 +0000</atom:modified>
+        <guid>https://engblog.net/apple/applewatch_s5/</guid>
+        <description>&lt;p&gt;Apple Watch S5を使用して半年が経過した。&lt;br /&gt;
+購入の動機から半年毎日使用した感想を述べる。&lt;/p&gt;</description>
+        
+        <dc:creator>haru</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Apple Watch S5</category>
+            
+          
+        
+        
+          
+            
+              <category>Apple</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>簿記3級の勉強中　勉強方法をまとめる</title>
+        <link>https://engblog.net/qualification/%E7%B0%BF%E8%A8%983%E7%B4%9A/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <author>info@engblog.net (haru)</author>
+        <atom:modified>Mon, 11 Mar 2019 00:00:00 +0000</atom:modified>
+        <guid>https://engblog.net/qualification/%E7%B0%BF%E8%A8%983%E7%B4%9A/</guid>
+        <description>&lt;p&gt;簿記3級を勉強中である。現在までの勉強方法をまとめる。&lt;/p&gt;</description>
+        
+        <dc:creator>haru</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>簿記3級</category>
+            
+          
+        
+        
+          
+            
+              <category>資格</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>統計検定2級を勉強中　勉強方法をまとめる</title>
+        <link>https://engblog.net/qualification/%E7%B5%B1%E8%A8%88%E6%A4%9C%E5%AE%9A2%E7%B4%9A/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <author>info@engblog.net (haru)</author>
+        <atom:modified>Mon, 11 Mar 2019 00:00:00 +0000</atom:modified>
+        <guid>https://engblog.net/qualification/%E7%B5%B1%E8%A8%88%E6%A4%9C%E5%AE%9A2%E7%B4%9A/</guid>
+        <description>&lt;p&gt;統計検定2級を勉強中である。勉強方法をまとめる。&lt;/p&gt;</description>
+        
+        <dc:creator>haru</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>統計検定2級</category>
+            
+          
+        
+        
+          
+            
+              <category>資格</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Privacy Policy</title>
+        <link>https://engblog.net/privacypolicy/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>info@engblog.net (haru)</author>
+        
+        <guid>https://engblog.net/privacypolicy/</guid>
+        <description>プライバシーポリシー 当ブログにおける個人情報の取扱いについて、以下のとおりにプライバシーポリシーを定めます。 運営者情報 運営者：haru ブログ</description>
+        
+        <dc:creator>haru</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

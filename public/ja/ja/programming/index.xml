@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Programming on TOP PAGE</title>
+    <link>http://example.org/ja/ja/programming/</link>
+    <description>Recent content in Programming on TOP PAGE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <managingEditor>info@engblog.net (haru)</managingEditor>
+    <webMaster>info@engblog.net (haru)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 29 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://example.org/ja/ja/programming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Hugoでウェブサイトを公開方法</title>
+        <link>http://example.org/ja/ja/programming/200329_hugo/</link>
+        <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+        <author>info@engblog.net (haru)</author>
+        <atom:modified>Sun, 29 Mar 2020 00:00:00 +0000</atom:modified>
+        <guid>http://example.org/ja/ja/programming/200329_hugo/</guid>
+        <description>&lt;p&gt;Hugoでウェブサイトを作成した（このブログ）。&lt;br /&gt;
+それなりに苦労したので忘備のために解説を残す。&lt;/p&gt;</description>
+        
+        <dc:creator>haru</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Hugo</category>
+            
+          
+        
+        
+          
+            
+              <category>Programming</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>AtCoder 茶色になったので振り返り＆今後の目標</title>
+        <link>http://example.org/ja/ja/programming/200328_atcoder_brown/</link>
+        <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+        <author>info@engblog.net (haru)</author>
+        <atom:modified>Sat, 28 Mar 2020 00:00:00 +0000</atom:modified>
+        <guid>http://example.org/ja/ja/programming/200328_atcoder_brown/</guid>
+        <description>&lt;p&gt;2019/12よりAtcoderを始め、2020/3に茶色になった。&lt;br /&gt;
+決して早い入茶ではないが、 それなりに苦労した。&lt;br /&gt;
+茶色を目指している人の参考になればと思い、入茶までの振り返りを綴る。&lt;/p&gt;</description>
+        
+        <dc:creator>haru</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>AtCoder</category>
+            
+          
+            
+              <category>競技プログラミング</category>
+            
+          
+            
+              <category>Python</category>
+            
+          
+        
+        
+          
+            
+              <category>Programming</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

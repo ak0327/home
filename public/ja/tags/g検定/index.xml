@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>G検定 on TOP PAGE</title>
+    <link>http://example.org/ja/tags/g%E6%A4%9C%E5%AE%9A/</link>
+    <description>Recent content in G検定 on TOP PAGE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <managingEditor>info@engblog.net (haru)</managingEditor>
+    <webMaster>info@engblog.net (haru)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 28 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://example.org/ja/tags/g%E6%A4%9C%E5%AE%9A/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>JDLA G検定に合格したので勉強法＆振り返り</title>
+        <link>http://example.org/ja/ja/qualification/200328_jdla_g/</link>
+        <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+        <author>info@engblog.net (haru)</author>
+        <atom:modified>Sat, 28 Mar 2020 00:00:00 +0000</atom:modified>
+        <guid>http://example.org/ja/ja/qualification/200328_jdla_g/</guid>
+        <description>&lt;p&gt;JDLA G検定2020#1に合格した。&lt;br /&gt;
+勉強法および受験した感想、今後の展望を述べる。&lt;/p&gt;</description>
+        
+        <dc:creator>haru</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>G検定</category>
+            
+          
+            
+              <category>AI</category>
+            
+          
+        
+        
+          
+            
+              <category>資格</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>JDLA G検定に合格したので勉強法＆振り返り</title>
+        <link>http://example.org/ja/qualification/200328_jdla_g/</link>
+        <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+        <author>info@engblog.net (haru)</author>
+        <atom:modified>Sat, 28 Mar 2020 00:00:00 +0000</atom:modified>
+        <guid>http://example.org/ja/qualification/200328_jdla_g/</guid>
+        <description>&lt;p&gt;JDLA G検定2020#1に合格した。&lt;br /&gt;
+勉強法および受験した感想、今後の展望を述べる。&lt;/p&gt;</description>
+        
+        <dc:creator>haru</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>G検定</category>
+            
+          
+            
+              <category>AI</category>
+            
+          
+        
+        
+          
+            
+              <category>資格</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
