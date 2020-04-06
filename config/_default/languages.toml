@@ -4,10 +4,3 @@
   weight = 1
   languagedir = "ltr"
   contentdir = "content/"
-
-[en]
-  title = "TOP PAGE"
-  languageName = "English"
-  weight = 2
-  languagedir = "ltr"
-  contentdir = "content/en"
