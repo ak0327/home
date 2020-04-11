@@ -15,6 +15,8 @@ series = [""]
 Apple Watch S5を使用して半年が経過した。
 購入の動機から半年毎日使用した感想を述べる。
 
+<script data-ad-client="ca-pub-7533150434547350" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 
 <!--more-->
 

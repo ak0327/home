@@ -17,10 +17,12 @@ series = [""]
 3度目の申請で合格を獲得した。
 2度不合格を得た理由と、合格のための対策を紹介する。
 
+<script data-ad-client="ca-pub-7533150434547350" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 <!--more-->
 
 ## 概要
-先日、**Amazonアソシエイトの審査に合格しました！** 
+先日、**Amazonアソシエイトの審査に合格しました！**
 
 今回の申請で3回目、ようやく通過することができた。
 
