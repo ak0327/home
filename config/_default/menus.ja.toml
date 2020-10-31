@@ -21,21 +21,21 @@
   name = "Apple"
   url = "apple"
   weight = 4
-
-[[main]]
-  identifier = "book"
-  name = "書評"
-  url = "book"
-  weight = 5
+#
+# [[main]]
+#   identifier = "book"
+#   name = "書評"
+#   url = "book"
+#   weight = 5
 
 [[main]]
   identifier = "qualification"
   name = "資格"
   url = "qualification"
-  weight = 6
+  weight = 5
 
 [[main]]
   identifier = "contact"
   name = "Contact"
   url = "contact"
-  weight = 7
+  weight = 6

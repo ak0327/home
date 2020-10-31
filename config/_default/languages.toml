@@ -2,5 +2,5 @@
   title = "TOP PAGE"
   languageName = "Japanese"
   weight = 1
-  languagedir = "ltr"
+  languagedir = "ja"
   contentdir = "content/"

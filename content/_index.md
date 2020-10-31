@@ -32,10 +32,10 @@ header:
       -
     titleColor:
     titleShadow: false
-    titleFontSize: 40
+    titleFontSize: 30
     subtitleColor:
     subtitleCursive: false
-    subtitleFontSize: 16
+    subtitleFontSize: 10
     spaceBetweenTitleSubtitle: 20
 
   - type: slide
@@ -60,8 +60,8 @@ header:
           - header title1
         subtitle:
           - header subtitle1
-        titleFontSize: 44
-        subtitleFontSize: 16
+        titleFontSize: 30
+        subtitleFontSize: 10
         spaceBetweenTitleSubtitle: 20
 
       - paddingX: 50
@@ -75,8 +75,8 @@ header:
           - header title2
         subtitle:
           - header subtitle2
-        titleFontSize: 44
-        subtitleFontSize: 16
+        titleFontSize: 30
+        subtitleFontSize: 10
         spaceBetweenTitleSubtitle: 20
 
       - paddingX: 50
