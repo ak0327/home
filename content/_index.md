@@ -8,7 +8,7 @@ header:
     title:
       - 機械系エンジニアの雑記ログ
     subtitle:
-      - プログラミングを勉強してフリーランスを目指す
+      - 競プロがメインコンテンツになりそうです。
     titleColor: #333
     titleShadow: false
     titleFontSize: 35

@@ -14,7 +14,6 @@ series = [""]
 
 GoogleAdSenseに合格したコツを紹介する
 
-<script data-ad-client="ca-pub-7533150434547350" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 <!--more-->
 

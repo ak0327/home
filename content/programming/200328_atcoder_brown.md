@@ -18,7 +18,6 @@ series = [""]
 決して早い入茶ではないが、 それなりに苦労した。
 茶色を目指している人の参考になればと思い、入茶までの振り返りを綴る。
 
-<script data-ad-client="ca-pub-7533150434547350" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 <!--more-->
 
