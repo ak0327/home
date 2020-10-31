@@ -2,7 +2,7 @@
 logoText = "TOP PAGE"
 logoType = "short" # long, short
 description = "my blog."
-custom_css = ["css/font.css"]
+#custom_css = ["css/font.css"]
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
 meta_image = ""
